@@ -29,7 +29,7 @@ This project uses the following dependencies:
 
 This project uses GitHub Actions for continuous integration. The workflow is defined in the `.github/workflows/build.yml` file and it performs the following steps:
 
-1.  **Triggers**: The workflow is triggered on every `push` or `pull_request` to the `main` branch.
+1.  **Triggers**: The workflow is triggered on every `push` or `pull_request` to the `master` branch.
 2.  **Checkout**: It checks out the source code from the repository.
 3.  **Set up JDK**: It sets up a Java Development Kit (JDK) version 17.
 4.  **Build with Maven**: It builds the project using Maven, creating a JAR file.
