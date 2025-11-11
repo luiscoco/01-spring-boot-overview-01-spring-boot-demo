@@ -1,5 +1,7 @@
 # My Cool App
 
+https://www.udemy.com/course/spring-hibernate-tutorial
+
 This is a simple Spring Boot application that demonstrates the basic features of the Spring Boot framework.
 
 ## Features
